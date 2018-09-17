@@ -12,6 +12,7 @@
 
 #### 二：项目结构
 
+```
 │  index.html
 │
 ├─.idea
@@ -130,9 +131,10 @@
             respond.matchmedia.addListener.src.js
             respond.min.js
             respond.src.js
+```
+
+
 
 #### 三：项目演示
 
-![Image text]（
-      Progect-Images /微金所项目描述.gif
-    ）
+![Image text]（https://github.com/AprildreamMI/Progect-Images/blob/master/%E5%BE%AE%E9%87%91%E6%89%80%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0.gif）
